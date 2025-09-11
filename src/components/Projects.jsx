@@ -18,6 +18,12 @@ const projects = [
     title: "Spotify Clone (React)",
     description: "A responsive Spotify UI clone with music playback features.",
     link: "https://github.com/Sindhoora123/Spotify-clone",
+    
+  },{
+    title: "Travel-booking-system (MySQL)",
+    description: "A simple travel booking system with Employees managing the Customers travel desires.",
+    link: "https://github.com/Sindhoora123/Travel-booking-system",
+
   },
 ];
 

@@ -15,14 +15,14 @@ export default function Hero() {
       </a>
 <div className="mt-6 flex flex-col md:flex-row gap-4">
   <a
-    href="/res-sin.pdf"
+    href="/Portfolio/Sindhoora-Resumee.pdf"
     download
     className="px-6 py-3 bg-pink-600 hover:bg-pink-700 transition rounded-full shadow-lg"
   >
     Download My Resume
   </a>
   <a
-    href="/res-sin.pdf"
+    href="/Portfolio/Sindhoora-Resumee.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="px-6 py-3 bg-pink-600 hover:bg-pink-700 transition rounded-full shadow-lg"
